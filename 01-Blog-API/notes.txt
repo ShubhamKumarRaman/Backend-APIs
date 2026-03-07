@@ -1,0 +1,7 @@
+npm init -y
+npm install express mongoose dotenv cors
+
+"dev":"nodemon server.js"
+
+Schema:- title, content, author, tags, createdAt
+
